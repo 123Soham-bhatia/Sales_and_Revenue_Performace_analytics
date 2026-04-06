@@ -1,4 +1,4 @@
-<img width="1393" height="780" alt="image" src="https://github.com/user-attachments/assets/4b72dcdc-0b53-45fa-b774-66693a9f5a3b" /># 📊 Sales Performance Analytics
+# 📊 Sales Performance Analytics
 
 ## 🔍 Overview
 This project focuses on analyzing e-commerce sales data to uncover key revenue trends, customer behavior patterns, and operational inefficiencies. The goal is to derive actionable insights that can help improve business performance and decision-making.
@@ -22,7 +22,7 @@ This project focuses on analyzing e-commerce sales data to uncover key revenue t
 
 ## 📊 Dashboard Preview
 
-
+<img width="1393" height="780" alt="image" src="https://github.com/user-attachments/assets/4b72dcdc-0b53-45fa-b774-66693a9f5a3b" />
 
 ---
 
